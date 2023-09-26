@@ -2,7 +2,8 @@
 	margin: 0;
 	padding: 0;
 	box-sizing: border-box;
-    font-family: 'Nunito Sans', sans-serif;
+    /* font-family: 'Nunito Sans', sans-serif; */
+    font-family: 'Quicksand', sans-serif;
 }
 html {
     scroll-behavior: smooth;
@@ -26,7 +27,7 @@ body {
     box-shadow: 0 2px 4px 0 rgba(0,0,0,.2); 
 }
 .container-fluid.hero {
-    height: 80vh;
+    height: 85vh;
     background-image: url('../images/DSC_0071\ 3.png');
     background-size: cover;
     background-position: center;
@@ -36,7 +37,7 @@ body {
   }
   .intro {
     margin-left: 4%;
-    margin-top: 20%;
+    margin-top: 25%;
   }
   .intro h1 {
     font-size: 75px;
@@ -136,7 +137,11 @@ body {
   h6{
     color: #F0EEE7;
   }
+.quote{
+    font-size: 20px;
+    color: #ffff;
 
+}
 
 
 
