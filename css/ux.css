@@ -98,6 +98,10 @@ body {
     border: none;
     box-shadow: 0px 8px 8px 0px #00000040;
  }
+ .card img{
+    height: 150px;
+    object-fit: cover;
+ }
  .proj{
     max-width: 1100px;
     margin: 0 auto; /* This centers the proj div horizontally */
