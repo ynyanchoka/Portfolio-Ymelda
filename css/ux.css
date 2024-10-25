@@ -36,8 +36,7 @@ body {
 }
   .container-fluid.hero {
     height: 80vh;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../images/DSC_0071\ 3\ 2.png');
-    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.5)), url('../images/DSC_0071\ 3\ 2.png');
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../images/thomas-tastet-hSODeSbvzE0-unsplash\ \(1\).jpg');
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
